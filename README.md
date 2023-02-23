@@ -21,5 +21,4 @@
 <li>Response Entity & Status Code</li>
 <li> Request Header & Cookie </li>
 <li> Response Header & Cookie </li>
-<li> Servlet Context </li>
 </ul>
